@@ -79,34 +79,41 @@ body{
   position: relative;
 }
 #pic6{
-  height: 50px;
-  width: 50px;
-  margin-left: 100px;
+
   border-radius: 50%;
+  height: 60px;
+  width: 60px;
   background-color: black;
   border-color:black;
 
 }
 #pic7{
-  height: 50px;
-  width: 50px;
-  margin-left: 100px;
+  height: 60px;
+  width: 60px;
+
+
   border-radius: 50%;
   background-color: black;
   border-color:black;
 
 }
 #pic8{
-  height: 50px;
-  width: 50px;
-  margin-left: 100px;
+height: 60px;
+  width: 60px;
+
   border-radius: 50%;
   background-color: black;
   border-color:black;
 
 }
 .realtor{
-  padding-top: 100px;
+  padding-top:10%;
+  padding-left:5%;
+  padding-right:5%;
+
+}
+.taille{
+  font-size:x-small;
 }
 .marge{
   padding-left: 30px;

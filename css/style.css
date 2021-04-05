@@ -3,7 +3,7 @@ body {
 }
 
 #pic1 {
-  margin-top: 30px;
+  margin-top: 10px;
   height: 30px;
   width: 100px;
   background-color: black;
@@ -12,6 +12,18 @@ body {
 
 .sidbar {
   background-color: #ffab40;
+}
+
+.navbar {
+  background-color: #ffab40;
+}
+
+.colh {
+  color: #ffab40;
+}
+
+.reg {
+  padding-top: 200px;
 }
 
 .pied {
@@ -64,34 +76,37 @@ body {
 }
 
 #pic6 {
-  height: 50px;
-  width: 50px;
-  margin-left: 100px;
   border-radius: 50%;
+  height: 60px;
+  width: 60px;
   background-color: black;
   border-color: black;
 }
 
 #pic7 {
-  height: 50px;
-  width: 50px;
-  margin-left: 100px;
+  height: 60px;
+  width: 60px;
   border-radius: 50%;
   background-color: black;
   border-color: black;
 }
 
 #pic8 {
-  height: 50px;
-  width: 50px;
-  margin-left: 100px;
+  height: 60px;
+  width: 60px;
   border-radius: 50%;
   background-color: black;
   border-color: black;
 }
 
 .realtor {
-  padding-top: 100px;
+  padding-top: 10%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.taille {
+  font-size: x-small;
 }
 
 .marge {
