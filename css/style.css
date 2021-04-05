@@ -60,16 +60,7 @@ body {
 }
 
 .home {
-  content: "";
-  display: block;
-  background-image: url(../img/hero.jpeg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  opacity: 0.8;
-}
-
-.home1 {
-  background-image: linear-gradient(to right bottom, rgba(3, 155, 229, 0.8), rgba(76, 175, 80, 0.8)), url(../img/hero.jpeg);
+  background-image: linear-gradient(rgba(0, 4, 5, 0.8), rgba(9, 10, 9, 0.8)), url(../img/hero.jpeg);
   background-size: cover;
   background-position: top;
   position: relative;
@@ -83,12 +74,28 @@ body {
   border-color: black;
 }
 
+.bolcmarge {
+  padding-top: 12%;
+}
+
 #pic7 {
   height: 60px;
   width: 60px;
   border-radius: 50%;
   background-color: black;
   border-color: black;
+}
+
+#picligne {
+  height: 2px;
+  width: 250px;
+  border: none;
+}
+
+#piclignee {
+  height: 2px;
+  width: 250px;
+  border: none;
 }
 
 #pic8 {
