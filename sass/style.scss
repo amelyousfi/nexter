@@ -1,0 +1,165 @@
+body{
+  background-color: pink;
+}
+.entete{
+
+}
+#pic1{
+  margin-top: 10px;
+  height: 30px;
+  width: 100px;
+ background-color: black;
+  border-color:black;
+
+}
+.sidbar{
+  background-color: #ffab40;
+}
+.navbar{
+  background-color: #ffab40;
+
+}
+.colh{
+  color:#ffab40;
+
+}
+.reg{
+ padding-top: 200px;
+}
+.pied{
+  margin-top: 200px;
+  margin-bottom: 60px;
+}
+#pic2{
+  height: 20px;
+  width: 50px;
+  background-color: black;
+  border-color:black;
+
+
+}
+
+#pic3{
+  height: 20px;
+  width: 50px;
+  background-color: black;
+  border-color:black;
+
+
+}
+#pic4{
+  height: 20px;
+  width: 80px;
+  background-color: black;
+  border-color:black;
+
+
+}
+#pic5{
+  height: 20px;
+  width: 50px;
+  background-color: black;
+  border-color:black;
+
+
+}
+.home{
+  content: '';
+
+  display: block;
+  background-image:url(../img/hero.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity:0.8;
+}
+.home1{
+  background-image: linear-gradient(to right bottom, rgba(3, 155, 229, 0.8), rgba(76, 175, 80, 0.8)), url(../img/hero.jpeg);
+  background-size: cover;
+  background-position: top;
+  position: relative;
+}
+#pic6{
+  height: 50px;
+  width: 50px;
+  margin-left: 100px;
+  border-radius: 50%;
+  background-color: black;
+  border-color:black;
+
+}
+#pic7{
+  height: 50px;
+  width: 50px;
+  margin-left: 100px;
+  border-radius: 50%;
+  background-color: black;
+  border-color:black;
+
+}
+#pic8{
+  height: 50px;
+  width: 50px;
+  margin-left: 100px;
+  border-radius: 50%;
+  background-color: black;
+  border-color:black;
+
+}
+.realtor{
+  padding-top: 100px;
+}
+.marge{
+  padding-left: 30px;
+
+}
+.fami{
+  font-family: 'Raleway', sans-serif;
+}
+
+.mamarge{
+  background-color: #ffab40;
+}
+.pictur{
+  content: '';
+
+  display: block;
+  background-image:url(../img/back.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity:0.8;
+}
+.lastcol{
+  background-color: #fff3e0;
+  padding-top: 100px;
+}
+#mpic11{
+
+  height:250px;
+  width: 250px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+
+  position:absolute;
+
+
+  z-index:1;
+
+}
+#mpic12{
+  height: 150px;
+  width: 300px;
+  margin-top: 150px;
+  margin-left: 150px;
+
+
+  position:absolute;
+
+
+
+  z-index:2;
+
+}
+.milieu{
+
+}
